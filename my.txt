@@ -1,0 +1,15 @@
+npm init -y
+https://www.npmjs.com/
+
+
+node server.js
+npm start
+
+to use es6
+in package.json --> "type":"module"
+
+npm i dotenv --> to hide our values
+npm i morgan --> http requests logs...helps in development
+npm i mongoose --> mongodb connection
+npm i bcrypt --> hashing password
+npm i jsonwebtoken --> jwt
